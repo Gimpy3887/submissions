@@ -1,4 +1,12 @@
 {
-  "tag name 1": "tag content 1",
-  "tag name 2": "tag content 2",
+  "Can I use this server's emotes everywhere?": "Sorry, but you would need to buy Nitro to use our emotes everywhere.",
+  "What are global emotes?": "They're special emotes that can be used everywhere.",
+  "How do I use global emotes?": "You can jump to our lists: <#357372706687287301> and <#381872517385551883>.",
+  "Why aren't the global emotes working?": "Remember to follow the instructions that are avaliable in the channels: <#357372706687287301> and <#381872517385551883>. If you're still having problems, ask in <#503693402941161472>.",
+  "What is GameWisp?": "A now unavaliable subscrption service for streamers to get global emotes.",
+  "Why are all the invites expired?": "You've reached the discord server limit which is currently at 100 servers.",
+  "How can I partner with Global Emote Hunters?": "Partnerships are only avaliable for servers that are around our size. If you do meet the size requirement, send <@193979517470113792> a direct message.",
+  "How can I get global emotes for my server?": "The only way is to be a twitch streamer and apply through discord.",
+  "What is Mixer?": "An unavaliable subscrption service for streamers that gave a custom server invite, and the ability to get global emotes that are low in quality.",
+  "Didn't find the FAQ helpful?": "Stop by <#503693402941161472>, we've got you covered!",
 }
